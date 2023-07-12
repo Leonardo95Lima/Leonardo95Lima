@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 Sou estudante JavaScript<br>👯 Estou a procura de Estagio<br>🤝 Amo Tecnologia<br>💬 Estou Fazendo Faculdade de ADS<br>
-
+ 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/leodslima) [![LinkedIn](www.linkedin.com/in/leonardo-lima-83a0a5283) 
